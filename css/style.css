@@ -382,6 +382,7 @@ figure {
     position: relative;
     left: inherit !important;
     margin-left: 0;
+    font-size: 20px;
   }
 }
 #main-logo:hover, #main-logo:focus, #main-logo:active {
